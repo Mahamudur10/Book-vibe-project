@@ -16,7 +16,7 @@ const Banner = () => {
                     {/* Banner Text Content */}
                     <div className="text-center lg:text-left">
                         <h1 className="text-4xl md:text-6xl font-bold leading-tight text-[#131313] font-playfair">
-                            Books to freshen up <br className="hidden md:block" /> your bookshelf
+                            Books to freshen up <br className="hidden md:block" /> your bookshelf  !!!!!!!
                         </h1>
                         <div className="mt-8 md:mt-12">
                             <Link 
